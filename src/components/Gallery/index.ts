@@ -1,1 +1,1 @@
-export { default as Diary } from './Gallery';
+export { default as Gallery } from './Gallery';
